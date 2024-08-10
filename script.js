@@ -46,3 +46,4 @@ function setGradientClick() {
 }
 
 button.addEventListener("click", setGradientClick);
+// Nice
